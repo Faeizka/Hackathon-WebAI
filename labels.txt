@@ -1,0 +1,3 @@
+0 Bebas Polusi
+1 Polusi Sampah
+2 Polusi Udara
